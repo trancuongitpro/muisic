@@ -1,0 +1,6 @@
+C:\Users\TRAN DUNG\RiderProjects\Namespace\ExHandling3\bin\Debug\ExHandling3.exe
+C:\Users\TRAN DUNG\RiderProjects\Namespace\ExHandling3\bin\Debug\ExHandling3.pdb
+C:\Users\TRAN DUNG\RiderProjects\Namespace\ExHandling3\obj\Debug\ExHandling3.csproj.AssemblyReference.cache
+C:\Users\TRAN DUNG\RiderProjects\Namespace\ExHandling3\obj\Debug\ExHandling3.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUNG\RiderProjects\Namespace\ExHandling3\obj\Debug\ExHandling3.exe
+C:\Users\TRAN DUNG\RiderProjects\Namespace\ExHandling3\obj\Debug\ExHandling3.pdb
