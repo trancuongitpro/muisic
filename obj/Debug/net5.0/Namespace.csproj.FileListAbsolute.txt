@@ -1,0 +1,5 @@
+C:\Users\TRAN DUNG\RiderProjects\Namespace\obj\Debug\net5.0\Namespace.csproj.AssemblyReference.cache
+C:\Users\TRAN DUNG\RiderProjects\Namespace\obj\Debug\net5.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRAN DUNG\RiderProjects\Namespace\obj\Debug\net5.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\TRAN DUNG\RiderProjects\Namespace\obj\Debug\net5.0\Namespace.AssemblyInfo.cs
+C:\Users\TRAN DUNG\RiderProjects\Namespace\obj\Debug\net5.0\Namespace.csproj.CoreCompileInputs.cache
